@@ -1,6 +1,6 @@
 # Mood Music
 
-##UPDATE
+## UPDATE
 The Kairos API is currently offline due to a discontinuation of their free developer accounts. 
 We are currently looking for a replacemet API to handle emotion detection.
 
