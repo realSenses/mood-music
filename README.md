@@ -1,8 +1,8 @@
 # Mood Music
 
 ## UPDATE
-The Kairos API is currently offline due to a discontinuation of their free developer accounts. 
-We are currently looking for a replacemet API to handle emotion detection.
+### The Kairos API is currently offline due to a discontinuation of their free developer accounts. 
+### We are currently looking for a replacemet API to handle emotion detection.
 
 + Mood Music is an app created in order to help a user find a playlist or new music to listen to based on their mood. 
 + The user uploads an image in the specified input field, and the image is processed by using an API developed by Kairos that detects 
