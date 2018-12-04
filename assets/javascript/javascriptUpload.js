@@ -121,9 +121,9 @@ $("#preview").slideUp();
         var gifNum = randomNum.toString();
     
             rapid.call('KairosAPI', 'createEmotionalAnalysis', { 
-            'appId': '856d4e0d',
+            'appId': '84fbb7b6',
             'source': sourceImgUrl,
-            'appKey': '436faeac678d376364b610aa4c2822e7'
+            'appKey': '6adc973fea3f85b7d407a9bab484eb9b'
     
             }).on('success', function (payload) {
                 M.toast({html: "Success!"});
